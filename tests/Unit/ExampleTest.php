@@ -24,6 +24,6 @@ class ExampleTest extends TestCase
      */
     public function testBasicOperation()
     {
-        $this->assertEquals(1,2);
+        $this->assertEquals(1,1);
     }
 }
